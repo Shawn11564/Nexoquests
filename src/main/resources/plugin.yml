@@ -1,0 +1,6 @@
+name: Nexoquests
+version: ${project.version}
+main: xyz.mrshawn.nexoquests.Nexoquests
+prefix: Nexoquests
+authors: [MrShawn]
+website: https://www.mrshawn.xyz
